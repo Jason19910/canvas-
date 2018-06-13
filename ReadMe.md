@@ -1,10 +1,9 @@
    // How to use waterMark("args") 和 new waterMark("args")
-  html：
-  <canvas id="myCanvas" style="z-index: -2;position: absolute;">
-    </canvas>
+  html:<canvas id="myCanvas" style="z-index: -2;position: absolute;"></canvas>
     
     
-   js:
+   
+  js:
   waterMark("#myCanvas",{
          imgSrc:'xx.jpg' 
         fontStyleSet: "rgba(200,200,200,0.8)",
