@@ -3,6 +3,7 @@
   <canvas id="myCanvas" style="z-index: -2;position: absolute;">
     </canvas>
     
+    
    js:
   waterMark("#myCanvas",{
          imgSrc:'xx.jpg' 
