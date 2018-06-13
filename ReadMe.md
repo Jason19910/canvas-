@@ -1,4 +1,3 @@
-   // How to use waterMark("args") 和 new waterMark("args")
   html:<canvas id="myCanvas" style="z-index: -2;position: absolute;"></canvas>
     
     
